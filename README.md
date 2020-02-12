@@ -6,9 +6,4 @@ Import the pandas library as pd.
 Import the Numpy library as np.
 Print the following the statement: Hello Capstone Project Course!
 Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
-In [2]:
-import pandas as pd
-import numpy as np
-In [3]:
-print("Hello Capstone Project Course!")
-Hello Capstone Project Course!
+
